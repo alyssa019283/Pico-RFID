@@ -7,4 +7,4 @@
 
 ## Schematic
 My wiring for the hardware components.
-![alt text](https://github.com/alyssa019283/Pico-RFID/blob/main/RFID-Project-Schematic.png)
+![alt text](https://github.com/alyssa019283/Pico-RFID/blob/main/RFID-Project-Schematic2.png)
